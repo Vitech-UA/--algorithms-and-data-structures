@@ -1,0 +1,2 @@
+D:\coding\C++ coding\SelectionArraySort\Debug\SelectionArraySort.exe
+D:\coding\C++ coding\SelectionArraySort\Debug\SelectionArraySort.pdb
