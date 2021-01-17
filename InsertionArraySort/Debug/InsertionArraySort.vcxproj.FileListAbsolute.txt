@@ -1,0 +1,2 @@
+D:\coding\C++ coding\InsertionArraySort\Debug\InsertionArraySort.exe
+D:\coding\C++ coding\InsertionArraySort\Debug\InsertionArraySort.pdb
